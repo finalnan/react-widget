@@ -1,7 +1,6 @@
 {
-  "name": "widgets",
+  "name": "finalnan-react-widgets",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -10,11 +9,13 @@
     "@types/node": "^16.18.10",
     "@types/react": "^18.0.26",
     "@types/react-dom": "^18.0.9",
+    "axios": "^1.2.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "typescript": "^4.9.4",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "apple-redesigned-client": "0.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -39,5 +40,21 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finalnan/react-widget.git"
+  },
+  "keywords": [
+    "finalnan"
+  ],
+  "author": "finalnan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finalnan/react-widget/issues"
+  },
+  "homepage": "https://github.com/finalnan/react-widget#readme"
 }
