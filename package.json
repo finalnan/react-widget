@@ -1,6 +1,6 @@
 {
   "name": "finalnan-react-widgets",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -44,7 +44,7 @@
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "devDependencies": {},
-  "repository": "github:https://github.com/finalnan/react-widget",
+  "repository": "github:finalnan/react-widget",
   "keywords": [
     "finalnan"
   ],
